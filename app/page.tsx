@@ -116,9 +116,18 @@ export default function HomePage() {
       <Typography variant="h4" gutterBottom sx={{ mb: 4 }}>
         Utvalda projekt
       </Typography>
-      <Grid container spacing={4}>
+      <Grid
+        container
+        spacing={4}
+        sx={{
+          justifyContent: { xs: "center", md: "center", lg: "flex-start" },
+        }}
+      >
         {projects.map((project, index) => (
-          <Grid sx={{ xs: 12, md: 4 }} key={index}>
+          <Grid
+            sx={{ xs: 12, md: 4, display: "flex", justifyContent: "center" }}
+            key={index}
+          >
             <CardItem
               image={project.image}
               title={project.title}
