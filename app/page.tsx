@@ -55,6 +55,13 @@ export default function HomePage() {
           sx={{
             color: "primary.main",
             fontFamily: "var(--font-pacifico), cursive",
+            fontSize: {
+              xs: "1rem",
+              sm: "1.5rem",
+              md: "2rem",
+              lg: "3rem",
+              xl: "3.5rem",
+            },
           }}
         >
           Välkommen till textilslöjd med Mei
