@@ -125,7 +125,14 @@ export default function HomePage() {
       >
         {projects.map((project, index) => (
           <Grid
-            sx={{ xs: 12, md: 4, display: "flex", justifyContent: "center" }}
+            sx={{
+              xs: 12,
+              sm: 8,
+              md: 5,
+              lg: 4,
+              display: "flex",
+              justifyContent: "center",
+            }}
             key={index}
           >
             <CardItem
