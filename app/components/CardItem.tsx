@@ -29,13 +29,7 @@ export default function CardItem({ image, title, description }: CardProps) {
     <>
       <Card
         sx={{
-          width: {
-            xs: "100%",
-            sm: "100%",
-            md: "100%",
-            lg: "100%",
-            xl: "100%",
-          },
+          width: "100%",
           height: "100%",
           display: "flex",
           flexDirection: "column",
