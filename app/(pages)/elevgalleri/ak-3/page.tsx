@@ -26,9 +26,18 @@ export default function Ak3Page() {
         <Typography variant="h2" component="h1" gutterBottom>
           Åk 3
         </Typography>
-        <Grid container spacing={4}>
+        <Grid
+          container
+          spacing={4}
+          sx={{
+            justifyContent: { xs: "center", md: "center", lg: "flex-start" },
+          }}
+        >
           {projects.map((project, index) => (
-            <Grid sx={{ xs: 12, md: 4 }} key={index}>
+            <Grid
+              sx={{ xs: 12, md: 4, display: "flex", justifyContent: "center" }}
+              key={index}
+            >
               <CardItem
                 image={project.image}
                 title={project.title}
