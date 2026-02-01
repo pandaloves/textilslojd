@@ -35,7 +35,13 @@ export default function Ak3Page() {
         >
           {projects.map((project, index) => (
             <Grid
-              sx={{ xs: 12, md: 4, display: "flex", justifyContent: "center" }}
+              sx={{
+                xs: 12,
+                sm: 12,
+                md: 4,
+                display: "flex",
+                justifyContent: "center",
+              }}
               key={index}
             >
               <CardItem

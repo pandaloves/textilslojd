@@ -127,9 +127,8 @@ export default function HomePage() {
           <Grid
             sx={{
               xs: 12,
-              sm: 8,
-              md: 5,
-              lg: 4,
+              sm: 12,
+              md: 4,
               display: "flex",
               justifyContent: "center",
             }}
