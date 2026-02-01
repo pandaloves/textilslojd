@@ -92,9 +92,11 @@ export default function Header() {
               sx={{
                 flexGrow: 0,
                 fontSize: {
-                  xs: "1.8rem",
-                  sm: "2.2rem",
-                  md: "2.5rem",
+                  xs: "1rem",
+                  sm: "1.5rem",
+                  md: "2rem",
+                  lg: "2.8rem",
+                  xl: "3rem",
                 },
                 fontWeight: 700,
                 letterSpacing: "0.5px",
