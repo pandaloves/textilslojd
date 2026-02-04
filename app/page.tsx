@@ -29,17 +29,17 @@ const projects = [
   },
   {
     title: "4a Heini",
-    description: "Handdocka",
+    description: "Broderi",
     image: "/img/4a Heini.jpg",
   },
   {
     title: "4a Hugo",
-    description: "Handdocka",
+    description: "Broderi",
     image: "/img/4a Hugo.jpg",
   },
   {
     title: "4a Lilly",
-    description: "Handdocka",
+    description: "Broderi",
     image: "/img/4a Lilly.jpg",
   },
   {
