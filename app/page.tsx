@@ -8,6 +8,11 @@ import CardItem from "./components/CardItem";
 
 const projects = [
   {
+    title: "3a Joel",
+    description: "Handdocka",
+    image: "/img/3a Joel.jpg",
+  },
+  {
     title: "3b Arvid",
     description: "Handdocka",
     image: "/img/3b Arvid.jpg",
@@ -21,6 +26,21 @@ const projects = [
     title: "3b Milla",
     description: "Handdocka",
     image: "/img/3b Milla.jpg",
+  },
+   {
+    title: "4a Heini",
+    description: "Handdocka",
+    image: "/img/4a Heini.jpg",
+  },
+  {
+    title: "4a Hugo",
+    description: "Handdocka",
+    image: "/img/4a Hugo.jpg",
+  },
+  {
+    title: "4a Lilly",
+    description: "Handdocka",
+    image: "/img/4a Lilly.jpg",
   },
   {
     title: "5a Line",
