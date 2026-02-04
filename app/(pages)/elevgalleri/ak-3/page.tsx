@@ -3,6 +3,11 @@ import { Container, Typography, Box, Grid } from "@mui/material";
 
 const projects = [
   {
+    title: "3a Joel",
+    description: "Handdocka",
+    image: "/img/3a Joel.jpg",
+  },
+  {
     title: "3b Arvid",
     description: "Handdocka",
     image: "/img/3b Arvid.jpg",
