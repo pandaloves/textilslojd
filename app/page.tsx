@@ -27,7 +27,7 @@ const projects = [
     description: "Handdocka",
     image: "/img/3b Milla.jpg",
   },
-   {
+  {
     title: "4a Heini",
     description: "Handdocka",
     image: "/img/4a Heini.jpg",
@@ -51,6 +51,11 @@ const projects = [
     title: "5a Sophia",
     description: "Lappteknik",
     image: "/img/5a Sophia.jpg",
+  },
+  {
+    title: "6b Alina",
+    description: "Pennfodral",
+    image: "/img/6b Alina.jpg",
   },
 ];
 
