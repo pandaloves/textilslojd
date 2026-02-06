@@ -53,6 +53,11 @@ const projects = [
     image: "/img/5a Sophia.jpg",
   },
   {
+    title: "5b Vega",
+    description: "Kudde",
+    image: "/img/5b Vega.jpg",
+  },
+  {
     title: "6b Alina",
     description: "Pennfodral",
     image: "/img/6b Alina.jpg",
