@@ -12,6 +12,11 @@ const projects = [
     description: "Lappteknik",
     image: "/img/5a Sophia.jpg",
   },
+  {
+    title: "5b Vega",
+    description: "Kudde",
+    image: "/img/5b Vega.jpg",
+  },
 ];
 
 export default function Ak5Page() {
