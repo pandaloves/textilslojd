@@ -8,14 +8,19 @@ const projects = [
     image: "/img/5a Line.jpg",
   },
   {
-    title: "5a Sophia",
+    title: "5a Sophias lappteknik",
     description: "Lappteknik",
-    image: "/img/5a Sophia.jpg",
+    image: "/img/5a Sophias lappteknik.jpg",
   },
   {
     title: "5b Vega",
     description: "Kudde",
     image: "/img/5b Vega.jpg",
+  },
+  {
+    title: "5a Sophias grytlapp",
+    description: "Grytlappar",
+    image: "/img/5a Sophias grytlapp.jpg",
   },
 ];
 
