@@ -7,20 +7,45 @@ const projects = [
     description: "Handdocka",
     image: "/img/3a Joel.jpg",
   },
-  {
-    title: "3b Arvid",
-    description: "Handdocka",
-    image: "/img/3b Arvid.jpg",
+    {
+    title: "3b Almas pepparkaksgubbe",
+    description: "Pepparkaksgubbe",
+    image: "/img/3b Almas pepparkaksgubbe.jpg",
   },
   {
-    title: "3b Clint",
+    title: "3b Arvids handdocka",
     description: "Handdocka",
-    image: "/img/3b clint.jpg",
+    image: "/img/3b Arvids handdocka.jpg",
+  },
+    {
+    title: "3b Arvids pepparkaksgubbe",
+    description: "Pepparkaksgubbe",
+    image: "/img/3b Arvids pepparkaksgubbe.jpg",
   },
   {
-    title: "3b Milla",
+    title: "3b Clints handdocka",
     description: "Handdocka",
-    image: "/img/3b Milla.jpg",
+    image: "/img/3b Clints handdocka.jpg",
+  },
+    {
+    title: "3b Clints pepparkaksgubbe",
+    description: "Pepparkaksgubbe",
+    image: "/img/3b Clints pepparkaksgubbe.jpg",
+  },
+  {
+    title: "3b Millas handdocka",
+    description: "Handdocka",
+    image: "/img/3b Millas handdocka.jpg",
+  },
+    {
+    title: "3b Millas pepparkaksgubbe",
+    description: "Pepparkaksgubbe",
+    image: "/img/3b Millas pepparkaksgubbe.jpg",
+  },
+    {
+    title: "3b Saimas pepparkaksgubbe",
+    description: "Pepparkaksgubbe",
+    image: "/img/3b Saimas pepparkaksgubbe.jpg",
   },
 ];
 
