@@ -22,6 +22,11 @@ const projects = [
     description: "Grytlappar",
     image: "/img/5a Sophias grytlapp.jpg",
   },
+  {
+    title: "5a Sagas grytlapp",
+    description: "Grytlappar",
+    image: "/img/5a Sagas grytlapp.jpg",
+  },
 ];
 
 export default function Ak5Page() {

@@ -12,7 +12,7 @@ const projects = [
     description: "Handdocka",
     image: "/img/3a Joel.jpg",
   },
-    {
+  {
     title: "3b Almas pepparkaksgubbe",
     description: "Pepparkaksgubbe",
     image: "/img/3b Almas pepparkaksgubbe.jpg",
@@ -22,7 +22,7 @@ const projects = [
     description: "Handdocka",
     image: "/img/3b Arvids handdocka.jpg",
   },
-    {
+  {
     title: "3b Arvids pepparkaksgubbe",
     description: "Pepparkaksgubbe",
     image: "/img/3b Arvids pepparkaksgubbe.jpg",
@@ -32,7 +32,7 @@ const projects = [
     description: "Handdocka",
     image: "/img/3b Clints handdocka.jpg",
   },
-    {
+  {
     title: "3b Clints pepparkaksgubbe",
     description: "Pepparkaksgubbe",
     image: "/img/3b Clints pepparkaksgubbe.jpg",
@@ -42,12 +42,12 @@ const projects = [
     description: "Handdocka",
     image: "/img/3b Millas handdocka.jpg",
   },
-    {
+  {
     title: "3b Millas pepparkaksgubbe",
     description: "Pepparkaksgubbe",
     image: "/img/3b Millas pepparkaksgubbe.jpg",
   },
-    {
+  {
     title: "3b Saimas pepparkaksgubbe",
     description: "Pepparkaksgubbe",
     image: "/img/3b Saimas pepparkaksgubbe.jpg",
@@ -76,6 +76,11 @@ const projects = [
     title: "5a Sophias lappteknik",
     description: "Lappteknik",
     image: "/img/5a Sophias lappteknik.jpg",
+  },
+  {
+    title: "5a Sagas grytlapp",
+    description: "Grytlappar",
+    image: "/img/5a Sagas grytlapp.jpg",
   },
   {
     title: "5b Vega",
